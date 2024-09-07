@@ -128,7 +128,7 @@
 	
 	<distributionManagement>
         	<repository>
-			<id>aws-codeartifact</id>
+			<id>maven-maven-artifacts</id>
     			<url>https://maven.d.codeartifact.ap-south-1.amazonaws.com/maven/maven-artifacts/</url>
   		</repository>
     	</distributionManagement>
